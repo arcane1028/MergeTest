@@ -1,3 +1,3 @@
 # MergeTest
 
-hello
+hello2
